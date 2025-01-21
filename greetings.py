@@ -5,7 +5,6 @@ content = "learn new things"
 status = "activ"
 created_date = "31-01-2025"
 issue_date = "28-02-2025"
-# Очень интересно)
 print("Имя пользователя:", username)
 print("Заголовок заметки:", title)
 print("Описание заметки:", content)
