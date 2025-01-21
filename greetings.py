@@ -1,14 +1,14 @@
 # 1
 username = "graf"
 title = "holiday"
-content = "day_off"
+content = "learn new things"
 status = "activ"
 created_date = "31-01-2025"
 issue_date = "28-02-2025"
 # Очень интересно)
-print("graf:", username)
-print("holiday:", title)
-print("day_off:", content)
-print("activ:", status)
-print("31-01-2025:", created_date)
-print("28-02-2025:", issue_date)
+print("Имя пользователя:", username)
+print("Заголовок заметки:", title)
+print("Описание заметки:", content)
+print("Статус заметки:", status)
+print("Дата создания заметки:", created_date)
+print("Дата истечения заметки:", issue_date)
